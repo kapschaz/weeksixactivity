@@ -1,4 +1,4 @@
-Accuracy: 
+Accuracy results recorded: 
 
 SVM accuracy: 97.333333%
 
